@@ -18,9 +18,9 @@ La aplicación permite registrar calorías consumidas y calorías quemadas a tra
 
 ## 🚀 Tecnologías Utilizadas
 
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [TailwindCSS](https://tailwindcss.com/)
+- ⚛ [React](https://reactjs.org/)
+- ⚡️ [Vite](https://vitejs.dev/)
+- 🎨 [TailwindCSS](https://tailwindcss.com/)
 - React Hooks: `useState`, `useReducer`, `useMemo`
 
 ---
