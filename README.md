@@ -1,6 +1,6 @@
 # 🥗 Calculadora de Calorías
 
-Este es un proyecto desarrollado con **React + Vite**, usando **TailwindCSS** para los estilos, `useReducer`, `useState` y `useMemo` para una gestión eficiente del estado.  
+Este es un proyecto desarrollado con **React + TypeScript + Vite**, usando **TailwindCSS** para los estilos, `useReducer`, `useState` y `useMemo` para una gestión eficiente del estado y `localStorage` para mantener la persistencia de datos.  
 La aplicación permite registrar calorías consumidas y calorías quemadas a través de ejercicio, mostrando un resumen dinámico del balance calórico.
 
 ---
@@ -14,6 +14,8 @@ La aplicación permite registrar calorías consumidas y calorías quemadas a tra
 - ✅ Visualización de la diferencia entre calorías ingeridas y gastadas
 - ✅ Estilos modernos y responsivos con **TailwindCSS**
 - ✅ Optimización con `useMemo` y manejo de estado con `useReducer` y `useState`
+- ✅ Persistencia de datos con `localStorage`
+- ✅ Manejando comunicación entre componentes con `props`
 
 ## 🚀 Tecnologías Utilizadas
 
