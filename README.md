@@ -19,23 +19,31 @@ La aplicación permite registrar calorías consumidas y calorías quemadas a tra
 ## 🚀 Tecnologías Utilizadas
 
 - ⚛ [React](https://reactjs.org/)
+- ⚒️ [TypeScript](https://www.typescriptlang.org/)
 - ⚡️ [Vite](https://vitejs.dev/)
 - 🎨 [TailwindCSS](https://tailwindcss.com/)
+- 🛡️ [Heroicons](https://heroicons.com/)
 - React Hooks: `useState`, `useReducer`, `useMemo`
 
 ---
 
 ## 🛠️ Instalación y uso
-
+Clonar el repositorio
 ```bash
-# Clonar el repositorio
 git clone https://github.com/kevin-lovos-dev/calories-traker.git
+```
 
-# Entrar al directorio
+Entrar al directorio
+```bash
 cd calories-traker
+```
 
-# Instalar dependencias
+Instalar dependencias
+```bash
 npm install
+```
 
-# Iniciar el servidor de desarrollo
+Iniciar el servidor de desarrollo
+```bash
 npm run dev
+```
