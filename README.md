@@ -7,14 +7,13 @@ La aplicación permite registrar calorías consumidas y calorías quemadas a tra
 
 ## 🧠 Lógica y Optimización
 
-- ✅ Selección de categoría: Comida o Ejercicio  
-- ✅ Registro de nombre y cantidad de calorías  
-- ✅ Lista dinámica con todos los registros  
-- ✅ Cálculo total de calorías consumidas y quemadas  
-- ✅ Visualización de la diferencia entre calorías ingeridas y gastadas  
-- ✅ Estilos modernos y responsivos con **TailwindCSS**  
+- ✅ Selección de categoría: Comida o Ejercicio
+- ✅ Registro de nombre y cantidad de calorías
+- ✅ Lista dinámica con todos los registros
+- ✅ Cálculo total de calorías consumidas y quemadas
+- ✅ Visualización de la diferencia entre calorías ingeridas y gastadas
+- ✅ Estilos modernos y responsivos con **TailwindCSS**
 - ✅ Optimización con `useMemo` y manejo de estado con `useReducer` y `useState`
-
 
 ## 🚀 Tecnologías Utilizadas
 
@@ -25,25 +24,34 @@ La aplicación permite registrar calorías consumidas y calorías quemadas a tra
 - 🛡️ [Heroicons](https://heroicons.com/)
 - React Hooks: `useState`, `useReducer`, `useMemo`
 
+## 📸 Vista Previa
+
+![Vista previa de la app](./public/vista-previa.png)
+
 ---
 
 ## 🛠️ Instalación y uso
+
 Clonar el repositorio
+
 ```bash
 git clone https://github.com/kevin-lovos-dev/calories-traker.git
 ```
 
 Entrar al directorio
+
 ```bash
 cd calories-traker
 ```
 
 Instalar dependencias
+
 ```bash
 npm install
 ```
 
 Iniciar el servidor de desarrollo
+
 ```bash
 npm run dev
 ```
